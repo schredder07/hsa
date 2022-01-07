@@ -103,7 +103,7 @@
          ],
          "min":[
             5.500133514404297,
-            -0.0000503230003232602,
+            -5.03230003232602E-05,
             0
          ],
          "type":"VEC3"
@@ -368,6 +368,11 @@
                "indices":2,
                "material":0
             }
+         ],
+         "extras":[
+            {
+               "reflectionClass":1
+            }
          ]
       },
       {
@@ -380,6 +385,11 @@
                },
                "indices":5,
                "material":1
+            }
+         ],
+         "extras":[
+            {
+               "reflectionClass":1
             }
          ]
       },
@@ -394,6 +404,11 @@
                "indices":8,
                "material":0
             }
+         ],
+         "extras":[
+            {
+               "reflectionClass":1
+            }
          ]
       },
       {
@@ -406,6 +421,11 @@
                },
                "indices":11,
                "material":0
+            }
+         ],
+         "extras":[
+            {
+               "reflectionClass":1
             }
          ]
       },
@@ -420,6 +440,11 @@
                "indices":14,
                "material":0
             }
+         ],
+         "extras":[
+            {
+               "reflectionClass":1
+            }
          ]
       },
       {
@@ -433,6 +458,11 @@
                "indices":17,
                "material":0
             }
+         ],
+         "extras":[
+            {
+               "reflectionClass":1
+            }
          ]
       },
       {
@@ -445,6 +475,11 @@
                },
                "indices":20,
                "material":0
+            }
+         ],
+         "extras":[
+            {
+               "reflectionClass":1
             }
          ]
       }

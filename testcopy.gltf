@@ -21,12 +21,7 @@
             -0.03999999910593033,
             0
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "name": "NORMAL",
@@ -69,12 +64,7 @@
             0,
             0
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "name": "NORMAL",
@@ -116,12 +106,7 @@
             -0.0000503230003232602,
             0
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "name": "NORMAL",
@@ -139,12 +124,7 @@
             -1,
             -1
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "bufferView": 1,
@@ -168,12 +148,7 @@
             0.6578938364982605,
             0
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "name": "NORMAL",
@@ -191,12 +166,7 @@
             -0.9999937415122986,
             -1
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "bufferView": 1,
@@ -221,12 +191,7 @@
             -0.04388042911887169,
             0
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "name": "NORMAL",
@@ -244,12 +209,7 @@
             -0.9917095899581909,
             -1
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "bufferView": 1,
@@ -274,12 +234,7 @@
             0.6588596701622009,
             0
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "name": "NORMAL",
@@ -297,12 +252,7 @@
             -0.9999849200248718,
             -1
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "bufferView": 1,
@@ -327,12 +277,7 @@
             16.979999542236328,
             0
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "name": "NORMAL",
@@ -350,12 +295,7 @@
             -0.9917096495628357,
             -1
          ],
-         "type": "VEC3",
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
-         ]
+         "type": "VEC3"
       },
       {
          "bufferView": 1,

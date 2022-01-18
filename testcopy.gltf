@@ -368,11 +368,6 @@
                "indices": 2,
                "material": 0
             }
-         ],
-         "extras": [
-            {
-               "reflectionClass": 1
-            }
          ]
       },
       {
@@ -385,11 +380,6 @@
                },
                "indices": 5,
                "material": 1
-            }
-         ],
-         "extras": [
-            {
-               "reflectionClass": 2
             }
          ]
       },
@@ -404,11 +394,6 @@
                "indices": 8,
                "material": 0
             }
-         ],
-         "extras": [
-            {
-               "reflectionClass": 3
-            }
          ]
       },
       {
@@ -421,11 +406,6 @@
                },
                "indices": 11,
                "material": 0
-            }
-         ],
-         "extras": [
-            {
-               "reflectionClass": 4
             }
          ]
       },
@@ -453,11 +433,6 @@
                "indices": 17,
                "material": 0
             }
-         ],
-         "extras": [
-            {
-               "reflectionClass": 5
-            }
          ]
       },
       {
@@ -471,11 +446,6 @@
                "indices": 20,
                "material": 0
             }
-         ],
-         "extras": [
-            {
-               "reflectionClass": 6
-            }
          ]
       }
    ],
@@ -484,7 +454,7 @@
          "mesh": 0,
          "extras": [
             {
-               "reflectionClass": 1
+               "reflectionClass": 6
             }
          ]
       },
@@ -492,7 +462,7 @@
          "mesh": 1,
          "extras": [
             {
-               "reflectionClass": 1
+               "reflectionClass": 6
             }
          ]
       },
@@ -500,7 +470,7 @@
          "mesh": 2,
          "extras": [
             {
-               "reflectionClass": 1
+               "reflectionClass": 6
             }
          ]
       },
@@ -508,7 +478,7 @@
          "mesh": 3,
          "extras": [
             {
-               "reflectionClass": 1
+               "reflectionClass": 6
             }
          ]
       },
@@ -516,7 +486,7 @@
          "mesh": 4,
          "extras": [
             {
-               "reflectionClass": 1
+               "reflectionClass": 6
             }
          ]
       },
@@ -524,7 +494,7 @@
          "mesh": 5,
          "extras": [
             {
-               "reflectionClass": 1
+               "reflectionClass": 6
             }
          ]
       },
@@ -532,7 +502,7 @@
          "mesh": 6,
          "extras": [
             {
-               "reflectionClass": 1
+               "reflectionClass": 6
             }
          ]
       }
